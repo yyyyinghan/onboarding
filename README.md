@@ -1,2 +1,2 @@
-# onboarding
-This repo is for git practice purpose.
+# onboarding-git
+This repo is for practicing git.
